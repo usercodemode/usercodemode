@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @usercodemode
-- 👀 I’m interested in Programming
+- 👀 I do Programming 👨‍💻
 - 🔗 My Resume: https://usercodemode.github.io/resume
 
 <!---
